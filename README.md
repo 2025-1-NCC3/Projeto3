@@ -11,7 +11,7 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. David Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Prof. Francisco Escobar</a>
 
 ## Descrição
- O projeto criado tem em mente a segurança do passageiro e do motorista que ultilizam o applicativo UBER, tendo como principal objetivo permitir que esses usuários possam fazer avaliações das principais zonas do estado de São Paulo em relação a sua segurança, assim podendo garantir com esses se sintam mais seguros ao pedir uma viajem ou aceitarem realizar uma viajem. 
+ O projeto criado tem em mente a segurança do passageiro e do motorista que ultilizam o aplicativo UBER, tendo como principal objetivo permitir que esses usuários possam fazer avaliações das principais zonas do estado de São Paulo em relação a sua segurança, assim podendo garantir com esses se sintam mais seguros ao pedir uma viajem ou aceitarem realizar uma viajem. 
 
 ## 🛠 Estrutura de pastas
 
