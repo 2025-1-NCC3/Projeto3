@@ -6,7 +6,7 @@
 
 ## Grupo 3/18
 
-## Integrantes: <a href="https://github.com/brunosr9">Bruno da Silva Ribeiro (RA:24025958) </a>, <a href="https://github.com/TexDotC0m">Isadora Teixeira Santoma (RA:24026458) </a>, <a href="https://github.com/NicSoeiroDev">Nicolas Soeiro (RA:24025933)</a>, </a>, <a href="https://github.com/R4cardo">Ricardo Liyudi Tetsuya (RA:24026553) </a>
+## Integrantes: <a href="https://github.com/brunosr9">Bruno da Silva Ribeiro (RA:24025958) </a>, <a href="https://github.com/TexDotC0m">Isadora Teixeira Santoma (RA:24026458) </a>, <a href="https://github.com/NicSoeiroDev">Nicolas Soeiro (RA:24025933)</a> </a>, <a href="https://github.com/R4cardo">Ricardo Liyudi Tetsuya (RA:24026553) </a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. David Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Prof. Francisco Escobar</a>
 
