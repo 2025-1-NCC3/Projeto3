@@ -8,10 +8,10 @@
 
 ## Integrantes: <a href="https://github.com/brunosr9">Bruno da Silva Ribeiro (RA:24025958) </a>, <a href="https://github.com/TexDotC0m">Isadora Teixeira Santoma (RA:24026458) </a>, <a href="https://github.com/NicSoeiroDev">Nicolas Soeiro (RA:24025933)</a> </a>, <a href="https://github.com/R4cardo">Ricardo Liyudi Tetsuya (RA:24026553) </a>,<a href ="https://github.com/brunosr9">Stephany Aliyah Guimarães Eurípedes de Paula (RA: 24026434) </a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. David Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Prof. Francisco Escobar</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti</a>,<a href=https://www.linkedin.com/in/marco-aurelio-lima-barbosa/>Prof. Marco Aurélio Lima Barbosa </a>,<a href="https://www.linkedin.com/in/katia-bossi/?original_referer=https%3A%2F%2Fgithub.com%2F">Prof. Katia M. Lara Bossi </a>,<a href="https://www.linkedin.com/in/vheltai/">Prof. Vinicius Heltai </a>
 
 ## Descrição
- O projeto criado tem em mente a segurança do passageiro e do motorista que ultilizam o aplicativo UBER, tendo como principal objetivo permitir que esses usuários possam fazer avaliações das principais zonas do estado de São Paulo em relação a sua segurança, assim podendo garantir com esses se sintam mais seguros ao pedir uma viajem ou aceitarem realizar uma viajem. 
+ O projeto criado tem em mente a segurança do passageiro e do motorista que ultilizam o aplicativo, tendo como principal objetivo permitir que esses usuários possam fazer avaliações das principais zonas do estado de São Paulo em relação a sua segurança, assim podendo garantir com esses se sintam mais seguros ao pedir uma viajem ou aceitarem realizar uma viajem. 
 
 ## 🛠 Estrutura de pastas
 
@@ -47,40 +47,12 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>Android:</b>
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+Não há instalação! Apenas apk! 
+Instale o apk no seu dispositivo android, você o podeencontrar no src
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+Foi ultilizado para o desenvolvimento do projeto o programa Android Studio
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
@@ -89,10 +61,6 @@ Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licen�
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
-
+1. API: https://www.openstreetmap.org/#map=4/-15.13/-53.19
+2. Programa: Android Studio
+3. 
