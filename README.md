@@ -48,7 +48,7 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>Android:</b>
 
 Não há instalação! Apenas apk! 
-Instale o apk no seu dispositivo android, você o podeencontrar no src
+Instale o apk no seu dispositivo android, você o pode encontrar no src
 
 ## 💻 Configuração para Desenvolvimento
 
