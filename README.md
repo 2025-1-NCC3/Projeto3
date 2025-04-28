@@ -1,14 +1,14 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
-<p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
-</p>
-
 ## Grupo 3/18
 
 ## Integrantes: <a href="https://github.com/brunosr9">Bruno da Silva Ribeiro (RA:24025958) </a>, <a href="https://github.com/TexDotC0m">Isadora Teixeira Santoma (RA:24026458) </a>, <a href="https://github.com/NicSoeiroDev">Nicolas Soeiro (RA:24025933)</a> </a>, <a href="https://github.com/R4cardo">Ricardo Liyudi Tetsuya (RA:24026553) </a>,<a href ="https://github.com/brunosr9">Stephany Aliyah Guimarães Eurípedes de Paula (RA: 24026434) </a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti</a>,<a href=https://www.linkedin.com/in/marco-aurelio-lima-barbosa/>Prof. Marco Aurélio Lima Barbosa </a>,<a href="https://www.linkedin.com/in/katia-bossi/?original_referer=https%3A%2F%2Fgithub.com%2F">Prof. Katia M. Lara Bossi </a>,<a href="https://www.linkedin.com/in/vheltai/">Prof. Vinicius Heltai </a>
+
+<p align="center">
+<img src="![foto](https://github.com/user-attachments/assets/f4a21466-2556-4256-88d0-f1b856aa658f)
+" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
 
 ## Descrição
  O projeto criado tem em mente a segurança do passageiro e do motorista que ultilizam o aplicativo, tendo como principal objetivo permitir que esses usuários possam fazer avaliações das principais zonas do estado de São Paulo em relação a sua segurança, assim podendo garantir com esses se sintam mais seguros ao pedir uma viajem ou aceitarem realizar uma viajem. 
@@ -61,4 +61,3 @@ Aqui estão as referências usadas no projeto.
 
 1. API: https://www.openstreetmap.org/#map=4/-15.13/-53.19
 2. Programa: Android Studio
-3. 
