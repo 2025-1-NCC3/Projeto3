@@ -6,9 +6,6 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti</a>,<a href=https://www.linkedin.com/in/marco-aurelio-lima-barbosa/>Prof. Marco Aurélio Lima Barbosa </a>,<a href="https://www.linkedin.com/in/katia-bossi/?original_referer=https%3A%2F%2Fgithub.com%2F">Prof. Katia M. Lara Bossi </a>,<a href="https://www.linkedin.com/in/vheltai/">Prof. Vinicius Heltai </a>
 
-<p align="center">
-<img src="![foto](https://github.com/user-attachments/assets/f4a21466-2556-4256-88d0-f1b856aa658f)
-" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
 
 ## Descrição
  O projeto criado tem em mente a segurança do passageiro e do motorista que ultilizam o aplicativo, tendo como principal objetivo permitir que esses usuários possam fazer avaliações das principais zonas do estado de São Paulo em relação a sua segurança, assim podendo garantir com esses se sintam mais seguros ao pedir uma viajem ou aceitarem realizar uma viajem. 
