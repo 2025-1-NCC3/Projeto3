@@ -12,10 +12,6 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti</a>,<a href=https://www.linkedin.com/in/marco-aurelio-lima-barbosa/>Prof. Marco Aurélio Lima Barbosa </a>,<a href="https://www.linkedin.com/in/katia-bossi/?original_referer=https%3A%2F%2Fgithub.com%2F">Prof. Katia M. Lara Bossi </a>,<a href="https://www.linkedin.com/in/vheltai/">Prof. Vinicius Heltai </a>
 
 ## Descrição
-<p align="center">
-  <img src="https://github.com/2025-1-NCC3/Projeto3/blob/main/images/LocalPath%20.png" alt="Logo do LocalPath" width="600" border="0">
-</p>
-
 
 O projeto LocalPath foi desenvolvido com o objetivo de promover mais segurança para passageiros e motoristas que utilizam o aplicativo da plataforma Uber. A proposta é permitir que os usuários avaliem e compartilhem suas percepções sobre a segurança das principais regiões do estado de São Paulo, com base em experiências reais vivenciadas durante suas viagens.
 </p>
