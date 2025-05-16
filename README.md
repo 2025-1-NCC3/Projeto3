@@ -12,7 +12,7 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti</a>,<a href=https://www.linkedin.com/in/marco-aurelio-lima-barbosa/>Prof. Marco Aurélio Lima Barbosa </a>,<a href="https://www.linkedin.com/in/katia-bossi/?original_referer=https%3A%2F%2Fgithub.com%2F">Prof. Katia M. Lara Bossi </a>,<a href="https://www.linkedin.com/in/vheltai/">Prof. Vinicius Heltai </a>
 
 ## Descrição
-https://github.com/2025-1-NCC3/Projeto3/blob/main/images/LocalPath%20-%20Logo.png
+
 <p align="center">
   <img src="https://github.com/2025-1-NCC3/Projeto3/blob/main/images/LocalPath%20-%20Logo.png"alt="Logo do LocalPath" alt="LocalPath" border="0">
 </p>
