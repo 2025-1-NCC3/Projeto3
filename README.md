@@ -17,7 +17,8 @@
   <img src="https://github.com/2025-1-NCC3/Projeto3/blob/main/images/LocalPath%20.png " alt="Logo do LocalPath" border="0">
 </p> 
 O projeto LocalPath foi desenvolvido com o objetivo de promover mais segurança para passageiros e motoristas que utilizam o aplicativo da plataforma Uber. A proposta é permitir que os usuários avaliem e compartilhem suas percepções sobre a segurança das principais regiões do estado de São Paulo, com base em experiências reais vivenciadas durante suas viagens.
-
+</p>
+<p>
 A partir dessas contribuições, o sistema gera um mapa colaborativo que indica áreas consideradas seguras, além de alertar sobre regiões com maior sensação de risco. Esse recurso busca oferecer mais clareza e confiança na hora de decidir por uma rota ou aceitar uma corrida. Ao valorizar a participação dos próprios usuários, o projeto contribui para uma experiência de mobilidade mais segura, consciente e informativa.
 
 ## 🛠 Estrutura de pastas
