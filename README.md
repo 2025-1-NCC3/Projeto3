@@ -13,7 +13,7 @@
 
 ## Descrição
 <p align="center">
-  <img src="https://github.com/2025-1-NCC3/Projeto3/blob/main/images/LocalPath%20.png" alt="Logo do LocalPath" width="450" border="0">
+  <img src="https://github.com/2025-1-NCC3/Projeto3/blob/main/images/LocalPath%20.png" alt="Logo do LocalPath" width="600" border="0">
 </p>
 
 
