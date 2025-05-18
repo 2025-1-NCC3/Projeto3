@@ -69,6 +69,10 @@ Foi ultilizado para o desenvolvimento do projeto o programa <a href="https://dev
 
 Aqui estão as referências usadas no projeto.
 
-1. API: https://www.openstreetmap.org/#map=4/-15.13/-53.19
-2. Programa: Android Studio: https://developer.android.com/studio?hl=pt-br
-
+1. **API do Mapa:** https://www.openstreetmap.org/#map=4/-15.13/-53.19
+2. **IDE Android - Android Studio:** https://developer.android.com/studio?hl=pt-br
+3. **IDE Desktop/Web:** https://visualstudio.microsoft.com/pt-br/
+4. **Linguagem de Programação:** https://www.java.com/pt-BR/
+5. **Ferramenta:** https://ngrok.com/ 
+6. **Banco de dados:** https://www.mongodb.com
+7. **Protótipos e design visual:** https://www.figma.com/ 
