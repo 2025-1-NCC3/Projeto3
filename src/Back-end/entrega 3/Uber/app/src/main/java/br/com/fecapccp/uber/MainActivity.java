@@ -1,0 +1,55 @@
+package br.com.fecapccp.uber;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
+import androidx.activity.EdgeToEdge;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.graphics.Insets;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowInsetsCompat;
+import android.content.Intent;
+
+public class MainActivity extends AppCompatActivity {
+
+    private Button botaoUsuario;
+    private Button botaoPassageiro;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_main);
+        botaoUsuario = findViewById(R.id.botaoUsuario);
+
+
+        botaoUsuario.setOnClickListener(view ->{
+            Intent motorista = new Intent(this, Motorista.class);
+            startActivity(motorista);
+        });
+        botaoPassageiro= findViewById(R.id.botaoPassageiro);
+
+        botaoPassageiro.setOnClickListener(view ->{
+            Intent passageiro = new Intent(this, Passageiro.class);
+            startActivity(passageiro);
+        });
+
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
+            Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
+            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
+            return insets;
+
+
+        });
+    }
+
+
+
+
+
+
+
+
+
+}
