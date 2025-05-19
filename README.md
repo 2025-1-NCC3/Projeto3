@@ -42,7 +42,8 @@ A partir dessas contribuições, o sistema gera um mapa colaborativo que indica 
 &emsp;&emsp;|Programação Orientada a Objetos e Estrutura de Dados  
 &emsp;&emsp;|Programação para Dispositivos Móveis  
 &emsp;&emsp;|Projeto Interdisciplinar: Aplicativo Móvel → Contém a documentação final  
-&emsp;&emsp;|Documento - Projeto Extensão - COM EMPRESA
+&emsp;&emsp;|Documento - Projeto Extensão - COM EMPRESA.docx
+&emsp;&emsp;|Documento - Projeto Extensão - COM EMPRESA.pdf
 
 |-->executáveis  
 &emsp;|-->HTML  
@@ -57,7 +58,7 @@ A partir dessas contribuições, o sistema gera um mapa colaborativo que indica 
 &emsp;|-->Front-end  
 &emsp;&emsp;|Entrega 1  
 &emsp;&emsp;|Entrega 2  
-&emsp;&emsp;|Entrega 3 → Versão final do Frontend  
+&emsp;&emsp;|Entrega 3 → Versão final do Frontend  e o APK final do aplicativo Android  
 
 |readme.md → Este arquivo com explicações e instruções do projeto  
 
